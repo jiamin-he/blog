@@ -5,7 +5,7 @@
   <link href="/blog/atom.xml" rel="self"/>
   
   <link href="http://jiaminhe.com/"/>
-  <updated>2017-03-15T22:38:07.842Z</updated>
+  <updated>2017-03-16T01:58:40.831Z</updated>
   <id>http://jiaminhe.com/</id>
   
   <author>
@@ -14,6 +14,26 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>hi</title>
+    <link href="http://jiaminhe.com/2017/03/15/hi/"/>
+    <id>http://jiaminhe.com/2017/03/15/hi/</id>
+    <published>2017-03-16T01:58:01.000Z</published>
+    <updated>2017-03-16T01:58:40.831Z</updated>
+    
+    <content type="html"><![CDATA[<p>nihdklbjkvhvh</p>
+]]></content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;nihdklbjkvhvh&lt;/p&gt;
+
+    
+    </summary>
+    
+    
+  </entry>
   
   <entry>
     <title>Hello World</title>
