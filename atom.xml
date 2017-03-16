@@ -5,7 +5,7 @@
   <link href="/blog/atom.xml" rel="self"/>
   
   <link href="http://jiaminhe.com/"/>
-  <updated>2017-03-16T01:58:40.831Z</updated>
+  <updated>2017-03-16T02:38:56.593Z</updated>
   <id>http://jiaminhe.com/</id>
   
   <author>
@@ -16,166 +16,13 @@
   <generator uri="http://hexo.io/">Hexo</generator>
   
   <entry>
-    <title>hi</title>
-    <link href="http://jiaminhe.com/2017/03/15/hi/"/>
-    <id>http://jiaminhe.com/2017/03/15/hi/</id>
-    <published>2017-03-16T01:58:01.000Z</published>
-    <updated>2017-03-16T01:58:40.831Z</updated>
-    
-    <content type="html"><![CDATA[<p>nihdklbjkvhvh</p>
-]]></content>
+    <title>one-and-a-half-month-reflection</title>
+    <link href="http://jiaminhe.com/2017/03/15/one-and-a-half-month-reflection/"/>
+    <id>http://jiaminhe.com/2017/03/15/one-and-a-half-month-reflection/</id>
+    <published>2017-03-16T02:38:56.000Z</published>
+    <updated>2017-03-16T02:38:56.593Z</updated>
     
     <summary type="html">
-    
-      &lt;p&gt;nihdklbjkvhvh&lt;/p&gt;
-
-    
-    </summary>
-    
-    
-  </entry>
-  
-  <entry>
-    <title>Hello World</title>
-    <link href="http://jiaminhe.com/2017/03/15/hello-world/"/>
-    <id>http://jiaminhe.com/2017/03/15/hello-world/</id>
-    <published>2017-03-15T22:38:07.841Z</published>
-    <updated>2017-03-15T22:38:07.842Z</updated>
-    
-    <content type="html"><![CDATA[<p>Welcome to <a href="https://hexo.io/" target="_blank" rel="external">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/" target="_blank" rel="external">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html" target="_blank" rel="external">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues" target="_blank" rel="external">GitHub</a>.</p>
-<h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><div class="line">1</div></pre></td><td class="code"><pre><div class="line">$ hexo new <span class="string">"My New Post"</span></div></pre></td></tr></table></figure>
-<p>More info: <a href="https://hexo.io/docs/writing.html" target="_blank" rel="external">Writing</a></p>
-<h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><div class="line">1</div></pre></td><td class="code"><pre><div class="line">$ hexo server</div></pre></td></tr></table></figure>
-<p>More info: <a href="https://hexo.io/docs/server.html" target="_blank" rel="external">Server</a></p>
-<h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><div class="line">1</div></pre></td><td class="code"><pre><div class="line">$ hexo generate</div></pre></td></tr></table></figure>
-<p>More info: <a href="https://hexo.io/docs/generating.html" target="_blank" rel="external">Generating</a></p>
-<h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><div class="line">1</div></pre></td><td class="code"><pre><div class="line">$ hexo deploy</div></pre></td></tr></table></figure>
-<p>More info: <a href="https://hexo.io/docs/deployment.html" target="_blank" rel="external">Deployment</a></p>
-]]></content>
-    
-    <summary type="html">
-    
-      &lt;p&gt;Welcome to &lt;a href=&quot;https://hexo.io/&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;Hexo&lt;/a&gt;! This is your very first post. Check &lt;a href=&quot;https://hexo.
-    
-    </summary>
-    
-    
-  </entry>
-  
-  <entry>
-    <title>jQuery-dynamically-add-or-delete-columns-in-a-table</title>
-    <link href="http://jiaminhe.com/2017/03/15/2017/2017-03-15-jQuery-dynamically-add-or-delete-columns-in-a-table/"/>
-    <id>http://jiaminhe.com/2017/03/15/2017/2017-03-15-jQuery-dynamically-add-or-delete-columns-in-a-table/</id>
-    <published>2017-03-15T14:49:24.000Z</published>
-    <updated>2017-03-15T15:53:34.569Z</updated>
-    
-    <content type="html"><![CDATA[<p><a href="http://www.blogjava.net/absolutedo/archive/2009/03/13/259488.html" target="_blank" rel="external">http://www.blogjava.net/absolutedo/archive/2009/03/13/259488.html</a><br>学会append 和remove</p>
-<p><a href="http://www.blogjava.net/absolutedo/archive/2009/03/13/259488.html" target="_blank" rel="external">http://www.blogjava.net/absolutedo/archive/2009/03/13/259488.html</a><br>靠id删除，但是我删时按length的index删，不match！<br>不能靠id的话</p>
-<p>对行删<br><a href="https://www.w3schools.com/jsref/met_table_deleterow.asp" target="_blank" rel="external">https://www.w3schools.com/jsref/met_table_deleterow.asp</a><br>$(‘#cart’).deleteRow(i); 不work<br>document.getElementById(“cart”).deleteRow(i+1); work</p>
-<p><a href="http://www.monmonkey.com/rumenpian/html/textarea.html" target="_blank" rel="external">http://www.monmonkey.com/rumenpian/html/textarea.html</a><br>textarea</p>
-<p><a href="https://q.cnblogs.com/q/3429/" target="_blank" rel="external">https://q.cnblogs.com/q/3429/</a><br>自动换行</p>
-]]></content>
-    
-    <summary type="html">
-    
-      &lt;p&gt;&lt;a href=&quot;http://www.blogjava.net/absolutedo/archive/2009/03/13/259488.html&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;http://www.blogjava.net/absolu
-    
-    </summary>
-    
-    
-  </entry>
-  
-  <entry>
-    <title>Geeks</title>
-    <link href="http://jiaminhe.com/2017/03/14/2017/2017-03-14-Geeks/"/>
-    <id>http://jiaminhe.com/2017/03/14/2017/2017-03-14-Geeks/</id>
-    <published>2017-03-15T01:52:05.000Z</published>
-    <updated>2017-03-15T05:28:13.104Z</updated>
-    
-    <content type="html"><![CDATA[<p>下定决心自学转码，决定第一步先自行捣鼓一个自己的个人网站/博客出来，今天一天看到了很多大大们的技术blog，都一一码起来了打算认真阅读。^_^</p>
-<hr>
-<h2 id="那些从前辈们那里学到的东西"><a href="#那些从前辈们那里学到的东西" class="headerlink" title="那些从前辈们那里学到的东西"></a>那些从前辈们那里学到的东西</h2><blockquote>
-<p>小学养起来的<code>每天按时完成家庭作业的</code>好习惯要重新养成！<br>坚持就是胜利！！！<br>——from <a href="你会记得我">Jiamin</a></p>
-</blockquote>
-<h3 id="1-Hexo-theme-NexT"><a href="#1-Hexo-theme-NexT" class="headerlink" title="1. Hexo-theme-NexT"></a>1. Hexo-theme-NexT</h3><ul>
-<li><a href="">linyehui.me</a></li>
-</ul>
-<p>Keywords:</p>
-<p>#坚持写博客很难 要做到 </p>
-<p>#博客写给自己看的，域名什么的没有太重要，分清主次</p>
-<ol>
-<li>这个博客主要是写给自己看的，什么域名其实不重要，[^2]换个新域名继续写，希望2015可以继续坚持下来。[^foot1]</li>
-<li>印象中这个代码自己写过好多次，不过这次写的是最快的，5分钟之内测试通过<a href="http://linyehui.me/2015/06/22/compare-version/" target="_blank" rel="external">^foot2</a></li>
-</ol>
-<p>[^2]hi</p>
-<p><a href="http://linyehui.me/2015/02/27/hello-linyehui-me/" target="_blank" rel="external">^foot1</a></p>
-]]></content>
-    
-    <summary type="html">
-    
-      &lt;p&gt;下定决心自学转码，决定第一步先自行捣鼓一个自己的个人网站/博客出来，今天一天看到了很多大大们的技术blog，都一一码起来了打算认真阅读。^_^&lt;/p&gt;
-&lt;hr&gt;
-&lt;h2 id=&quot;那些从前辈们那里学到的东西&quot;&gt;&lt;a href=&quot;#那些从前辈们那里学到的东西&quot; class=&quot;h
-    
-    </summary>
-    
-    
-  </entry>
-  
-  <entry>
-    <title>Hello World</title>
-    <link href="http://jiaminhe.com/2017/03/14/2017/2017-03-11-hello-world/"/>
-    <id>http://jiaminhe.com/2017/03/14/2017/2017-03-11-hello-world/</id>
-    <published>2017-03-14T18:54:46.234Z</published>
-    <updated>2017-03-14T15:23:42.307Z</updated>
-    
-    <content type="html"><![CDATA[<p>Welcome to <a href="https://hexo.io/" target="_blank" rel="external">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/" target="_blank" rel="external">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html" target="_blank" rel="external">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues" target="_blank" rel="external">GitHub</a>.</p>
-<h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><div class="line">1</div></pre></td><td class="code"><pre><div class="line">$ hexo new <span class="string">"My New Post"</span></div></pre></td></tr></table></figure>
-<p>More info: <a href="https://hexo.io/docs/writing.html" target="_blank" rel="external">Writing</a></p>
-<h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><div class="line">1</div></pre></td><td class="code"><pre><div class="line">$ hexo server</div></pre></td></tr></table></figure>
-<p>More info: <a href="https://hexo.io/docs/server.html" target="_blank" rel="external">Server</a></p>
-<h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><div class="line">1</div></pre></td><td class="code"><pre><div class="line">$ hexo generate</div></pre></td></tr></table></figure>
-<p>More info: <a href="https://hexo.io/docs/generating.html" target="_blank" rel="external">Generating</a></p>
-<h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><div class="line">1</div></pre></td><td class="code"><pre><div class="line">$ hexo deploy</div></pre></td></tr></table></figure>
-<p>More info: <a href="https://hexo.io/docs/deployment.html" target="_blank" rel="external">Deployment</a></p>
-]]></content>
-    
-    <summary type="html">
-    
-      &lt;p&gt;Welcome to &lt;a href=&quot;https://hexo.io/&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;Hexo&lt;/a&gt;! This is your very first post. Check &lt;a href=&quot;https://hexo.
-    
-    </summary>
-    
-    
-  </entry>
-  
-  <entry>
-    <title>the first one be happy</title>
-    <link href="http://jiaminhe.com/2017/03/14/2017/2017-03-14-the-first-one-be-happy/"/>
-    <id>http://jiaminhe.com/2017/03/14/2017/2017-03-14-the-first-one-be-happy/</id>
-    <published>2017-03-14T18:39:54.000Z</published>
-    <updated>2017-03-14T21:10:32.996Z</updated>
-    
-    <content type="html"><![CDATA[<ul>
-<li>12321</li>
-<li>456432</li>
-<li>65453</li>
-</ul>
-<h2 id="喜欢吗"><a href="#喜欢吗" class="headerlink" title="喜欢吗"></a>喜欢吗</h2><p>要自己建立categories tags about comonweal</p>
-<p><a href="http://www.cnblogs.com/doublezcc/p/6140788.html" target="_blank" rel="external">http://www.cnblogs.com/doublezcc/p/6140788.html</a></p>
-<p>要先hexo algolia</p>
-<p>hexo new post name<br>hexo new page tags<br>hexo d -g</p>
-<p><a href="https://notes.wanghao.work/2015-10-21-%E4%B8%BANexT%E4%B8%BB%E9%A2%98%E6%B7%BB%E5%8A%A0%E6%96%87%E7%AB%A0%E9%98%85%E8%AF%BB%E9%87%8F%E7%BB%9F%E8%AE%A1%E5%8A%9F%E8%83%BD.html" target="_blank" rel="external">https://notes.wanghao.work/2015-10-21-%E4%B8%BANexT%E4%B8%BB%E9%A2%98%E6%B7%BB%E5%8A%A0%E6%96%87%E7%AB%A0%E9%98%85%E8%AF%BB%E9%87%8F%E7%BB%9F%E8%AE%A1%E5%8A%9F%E8%83%BD.html</a></p>
-]]></content>
-    
-    <summary type="html">
-    
-      &lt;ul&gt;
-&lt;li&gt;12321&lt;/li&gt;
-&lt;li&gt;456432&lt;/li&gt;
-&lt;li&gt;65453&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2 id=&quot;喜欢吗&quot;&gt;&lt;a href=&quot;#喜欢吗&quot; class=&quot;headerlink&quot; title=&quot;喜欢吗&quot;&gt;&lt;/a&gt;喜欢吗&lt;/h2&gt;&lt;p&gt;要自己建立cate
     
     </summary>
     
