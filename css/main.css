@@ -1800,7 +1800,7 @@ pre .javascript .function {
   width: 4px;
   height: 4px;
   border-radius: 50%;
-  background: #fc3932;
+  background: #8e85ff;
 }
 .links-of-blogroll {
   font-size: 13px;
@@ -3025,5 +3025,6 @@ hr {
 .site-meta {
   padding: 20px 0;
   color: #fff;
-  background: #00bfff;
+  background-color: #00bfff;
+  background-image: url("Jiamin_logo4_big.png");
 }
