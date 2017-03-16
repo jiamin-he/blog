@@ -5,7 +5,7 @@
   <link href="/blog/atom.xml" rel="self"/>
   
   <link href="http://jiaminhe.com/"/>
-  <updated>2017-03-16T18:41:54.634Z</updated>
+  <updated>2017-03-16T19:08:29.074Z</updated>
   <id>http://jiaminhe.com/</id>
   
   <author>
@@ -16,20 +16,48 @@
   <generator uri="http://hexo.io/">Hexo</generator>
   
   <entry>
+    <title>Site Log|建站日志--Hexo.Next主题下的个性化配置</title>
+    <link href="http://jiaminhe.com/2017/03/16/site-log/"/>
+    <id>http://jiaminhe.com/2017/03/16/site-log/</id>
+    <published>2017-03-16T19:04:38.000Z</published>
+    <updated>2017-03-16T19:08:29.074Z</updated>
+    
+    <content type="html"><![CDATA[<blockquote class="blockquote-center">这里是摘要。</blockquote>
+
+<a id="more"></a>
+<h2 id="已实现功能"><a href="#已实现功能" class="headerlink" title="已实现功能"></a>已实现功能</h2><ol>
+<li><a href="http://forwardkth.github.io/2016/05/08/next-theme-post-visibility/" target="_blank" rel="external">自行设置文章是否在首页中隐藏/显示——eg.首页不显示生活随笔类，仅显示技术分享类文章</a></li>
+<li><a href="https://github.com/iissnan/hexo-theme-next/issues/244" target="_blank" rel="external">首页显示自定义摘要，添加“阅读更多”按钮</a></li>
+<li></li>
+</ol>
+<h2 id="待实现功能"><a href="#待实现功能" class="headerlink" title="待实现功能"></a>待实现功能</h2>]]></content>
+    
+    <summary type="html">
+    
+      &lt;blockquote class=&quot;blockquote-center&quot;&gt;这里是摘要。&lt;/blockquote&gt;
+    
+    </summary>
+    
+    
+  </entry>
+  
+  <entry>
     <title>thank-you</title>
     <link href="http://jiaminhe.com/2017/03/16/thank-you/"/>
     <id>http://jiaminhe.com/2017/03/16/thank-you/</id>
     <published>2017-03-16T18:34:00.000Z</published>
-    <updated>2017-03-16T18:41:54.634Z</updated>
+    <updated>2017-03-16T18:49:21.865Z</updated>
     
-    <content type="html"><![CDATA[<p><blockquote class="blockquote-center">感谢全栈工程师<a href="https://neveryu.github.io/" target="_blank" rel="external">Never_yu</a>。</blockquote><br><!--Read more|阅读全文--></p>
+    <content type="html"><![CDATA[<blockquote class="blockquote-center">感谢全栈工程师<a href="https://neveryu.github.io/" target="_blank" rel="external">Never_yu</a>。</blockquote>
+
+<a id="more"></a>
 <p>你好啊</p>
 <h2 id="谢谢你"><a href="#谢谢你" class="headerlink" title="谢谢你"></a>谢谢你</h2><p>啦啦啦</p>
 ]]></content>
     
     <summary type="html">
     
-      &lt;p&gt;&lt;blockquote class=&quot;blockquote-center&quot;&gt;感谢全栈工程师&lt;a href=&quot;https://neveryu.github.io/&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;Never_yu&lt;/a&gt;。&lt;/blockquot
+      &lt;blockquote class=&quot;blockquote-center&quot;&gt;感谢全栈工程师&lt;a href=&quot;https://neveryu.github.io/&quot;&gt;Never_yu&lt;/a&gt;。&lt;/blockquote&gt;
     
     </summary>
     
@@ -55,9 +83,20 @@
     <link href="http://jiaminhe.com/2017/03/16/hello/"/>
     <id>http://jiaminhe.com/2017/03/16/hello/</id>
     <published>2017-03-16T15:49:28.000Z</published>
-    <updated>2017-03-16T15:49:28.576Z</updated>
+    <updated>2017-03-16T18:49:30.962Z</updated>
+    
+    <content type="html"><![CDATA[<p>daldnlkanlerkgnawngelknsekndsfl<br>daldnlkanlerkgnawngelknsekndsfl</p>
+<p>daldnlkanlerkgnawngelknsekndsfl</p>
+<p>daldnlkanlerkgnawngelknsekndsfl<br>daldnlkanlerkgnawngelknsekndsfl<br>daldnlkanlerkgnawngelknsekndsfl<br>daldnlkanlerkgnawngelknsekndsfl<br>daldnlkanlerkgnawngelknsekndsfl<br>daldnlkanlerkgnawngelknsekndsfl<br>daldnlkanlerkgnawngelknsekndsfl<br>daldnlkanlerkgnawngelknsekndsfl<br>daldnlkanlerkgnawngelknsekndsfl</p>
+<a id="more"></a>
+<p>我是好人</p>
+]]></content>
     
     <summary type="html">
+    
+      &lt;p&gt;daldnlkanlerkgnawngelknsekndsfl&lt;br&gt;daldnlkanlerkgnawngelknsekndsfl&lt;/p&gt;
+&lt;p&gt;daldnlkanlerkgnawngelknsekndsfl&lt;/p&gt;
+&lt;p&gt;daldnlkanlerkgnawngelknsekndsfl&lt;br&gt;daldnlkanlerkgnawngelknsekndsfl&lt;br&gt;daldnlkanlerkgnawngelknsekndsfl&lt;br&gt;daldnlkanlerkgnawngelknsekndsfl&lt;br&gt;daldnlkanlerkgnawngelknsekndsfl&lt;br&gt;daldnlkanlerkgnawngelknsekndsfl&lt;br&gt;daldnlkanlerkgnawngelknsekndsfl&lt;br&gt;daldnlkanlerkgnawngelknsekndsfl&lt;br&gt;daldnlkanlerkgnawngelknsekndsfl&lt;/p&gt;
     
     </summary>
     
@@ -69,16 +108,44 @@
     <link href="http://jiaminhe.com/2017/03/15/one-and-a-half-month-reflection/"/>
     <id>http://jiaminhe.com/2017/03/15/one-and-a-half-month-reflection/</id>
     <published>2017-03-16T02:38:56.000Z</published>
-    <updated>2017-03-16T18:27:07.538Z</updated>
+    <updated>2017-03-16T18:49:13.260Z</updated>
     
     <content type="html"><![CDATA[<h2 id="hi"><a href="#hi" class="headerlink" title="hi"></a>hi</h2><p>dakngr</p>
 <h2 id="dalknga-wg"><a href="#dalknga-wg" class="headerlink" title="dalknga;wg"></a>dalknga;wg</h2><p>ndnal</p>
+<a id="more"></a>
+<p>daldnlkanlerkgnawngelknsekndsfl<br>daldnlkanlerkgnawngelknsekndsfl</p>
+<p>daldnlkanlerkgnawngelknsekndsfl</p>
+<p>daldnlkanlerkgnawngelknsekndsfl<br>daldnlkanlerkgnawngelknsekndsfl<br>daldnlkanlerkgnawngelknsekndsfl<br>daldnlkanlerkgnawngelknsekndsfl<br>daldnlkanlerkgnawngelknsekndsfl<br>daldnlkanlerkgnawngelknsekndsfl<br>daldnlkanlerkgnawngelknsekndsfl<br>daldnlkanlerkgnawngelknsekndsfl<br>daldnlkanlerkgnawngelknsekndsfldaldnlkanlerkgnawngelknsekndsfl<br>daldnlkanlerkgnawngelknsekndsfl</p>
+<p>daldnlkanlerkgnawngelknsekndsfl</p>
+<p>daldnlkanlerkgnawngelknsekndsfl<br>daldnlkanlerkgnawngelknsekndsfl<br>daldnlkanlerkgnawngelknsekndsfl<br>daldnlkanlerkgnawngelknsekndsfl<br>daldnlkanlerkgnawngelknsekndsfl<br>daldnlkanlerkgnawngelknsekndsfl<br>daldnlkanlerkgnawngelknsekndsfl<br>daldnlkanlerkgnawngelknsekndsfl<br>daldnlkanlerkgnawngelknsekndsfldaldnlkanlerkgnawngelknsekndsfl<br>daldnlkanlerkgnawngelknsekndsfl</p>
+<p>daldnlkanlerkgnawngelknsekndsfl</p>
+<p>daldnlkanlerkgnawngelknsekndsfl<br>daldnlkanlerkgnawngelknsekndsfl<br>daldnlkanlerkgnawngelknsekndsfl<br>daldnlkanlerkgnawngelknsekndsfl<br>daldnlkanlerkgnawngelknsekndsfl<br>daldnlkanlerkgnawngelknsekndsfl<br>daldnlkanlerkgnawngelknsekndsfl<br>daldnlkanlerkgnawngelknsekndsfl<br>daldnlkanlerkgnawngelknsekndsfldaldnlkanlerkgnawngelknsekndsfl<br>daldnlkanlerkgnawngelknsekndsfl</p>
+<p>daldnlkanlerkgnawngelknsekndsfl</p>
+<p>daldnlkanlerkgnawngelknsekndsfl<br>daldnlkanlerkgnawngelknsekndsfl<br>daldnlkanlerkgnawngelknsekndsfl<br>daldnlkanlerkgnawngelknsekndsfl<br>daldnlkanlerkgnawngelknsekndsfl<br>daldnlkanlerkgnawngelknsekndsfl<br>daldnlkanlerkgnawngelknsekndsfl<br>daldnlkanlerkgnawngelknsekndsfl<br>daldnlkanlerkgnawngelknsekndsfldaldnlkanlerkgnawngelknsekndsfl<br>daldnlkanlerkgnawngelknsekndsfl</p>
+<p>daldnlkanlerkgnawngelknsekndsfl</p>
+<p>daldnlkanlerkgnawngelknsekndsfl<br>daldnlkanlerkgnawngelknsekndsfl<br>daldnlkanlerkgnawngelknsekndsfl<br>daldnlkanlerkgnawngelknsekndsfl<br>daldnlkanlerkgnawngelknsekndsfl<br>daldnlkanlerkgnawngelknsekndsfl<br>daldnlkanlerkgnawngelknsekndsfl<br>daldnlkanlerkgnawngelknsekndsfl<br>daldnlkanlerkgnawngelknsekndsfldaldnlkanlerkgnawngelknsekndsfl<br>daldnlkanlerkgnawngelknsekndsfl</p>
+<p>daldnlkanlerkgnawngelknsekndsfl</p>
+<p>daldnlkanlerkgnawngelknsekndsfl<br>daldnlkanlerkgnawngelknsekndsfl<br>daldnlkanlerkgnawngelknsekndsfl<br>daldnlkanlerkgnawngelknsekndsfl<br>daldnlkanlerkgnawngelknsekndsfl<br>daldnlkanlerkgnawngelknsekndsfl<br>daldnlkanlerkgnawngelknsekndsfl<br>daldnlkanlerkgnawngelknsekndsfl<br>daldnlkanlerkgnawngelknsekndsfldaldnlkanlerkgnawngelknsekndsfl<br>daldnlkanlerkgnawngelknsekndsfl</p>
+<p>daldnlkanlerkgnawngelknsekndsfl</p>
+<p>daldnlkanlerkgnawngelknsekndsfl<br>daldnlkanlerkgnawngelknsekndsfl<br>daldnlkanlerkgnawngelknsekndsfl<br>daldnlkanlerkgnawngelknsekndsfl<br>daldnlkanlerkgnawngelknsekndsfl<br>daldnlkanlerkgnawngelknsekndsfl<br>daldnlkanlerkgnawngelknsekndsfl<br>daldnlkanlerkgnawngelknsekndsfl<br>daldnlkanlerkgnawngelknsekndsfldaldnlkanlerkgnawngelknsekndsfl<br>daldnlkanlerkgnawngelknsekndsfl</p>
+<p>daldnlkanlerkgnawngelknsekndsfl</p>
+<p>daldnlkanlerkgnawngelknsekndsfl<br>daldnlkanlerkgnawngelknsekndsfl<br>daldnlkanlerkgnawngelknsekndsfl<br>daldnlkanlerkgnawngelknsekndsfl<br>daldnlkanlerkgnawngelknsekndsfl<br>daldnlkanlerkgnawngelknsekndsfl<br>daldnlkanlerkgnawngelknsekndsfl<br>daldnlkanlerkgnawngelknsekndsfl<br>daldnlkanlerkgnawngelknsekndsfldaldnlkanlerkgnawngelknsekndsfl<br>daldnlkanlerkgnawngelknsekndsfl</p>
+<p>daldnlkanlerkgnawngelknsekndsfl</p>
+<p>daldnlkanlerkgnawngelknsekndsfl<br>daldnlkanlerkgnawngelknsekndsfl<br>daldnlkanlerkgnawngelknsekndsfl<br>daldnlkanlerkgnawngelknsekndsfl<br>daldnlkanlerkgnawngelknsekndsfl<br>daldnlkanlerkgnawngelknsekndsfl<br>daldnlkanlerkgnawngelknsekndsfl<br>daldnlkanlerkgnawngelknsekndsfl<br>daldnlkanlerkgnawngelknsekndsfldaldnlkanlerkgnawngelknsekndsfl<br>daldnlkanlerkgnawngelknsekndsfl</p>
+<p>daldnlkanlerkgnawngelknsekndsfl</p>
+<p>daldnlkanlerkgnawngelknsekndsfl<br>daldnlkanlerkgnawngelknsekndsfl<br>daldnlkanlerkgnawngelknsekndsfl<br>daldnlkanlerkgnawngelknsekndsfl<br>daldnlkanlerkgnawngelknsekndsfl<br>daldnlkanlerkgnawngelknsekndsfl<br>daldnlkanlerkgnawngelknsekndsfl<br>daldnlkanlerkgnawngelknsekndsfl<br>daldnlkanlerkgnawngelknsekndsfldaldnlkanlerkgnawngelknsekndsfl<br>daldnlkanlerkgnawngelknsekndsfl</p>
+<p>daldnlkanlerkgnawngelknsekndsfl</p>
+<p>daldnlkanlerkgnawngelknsekndsfl<br>daldnlkanlerkgnawngelknsekndsfl<br>daldnlkanlerkgnawngelknsekndsfl<br>daldnlkanlerkgnawngelknsekndsfl<br>daldnlkanlerkgnawngelknsekndsfl<br>daldnlkanlerkgnawngelknsekndsfl<br>daldnlkanlerkgnawngelknsekndsfl<br>daldnlkanlerkgnawngelknsekndsfl<br>daldnlkanlerkgnawngelknsekndsfldaldnlkanlerkgnawngelknsekndsfl<br>daldnlkanlerkgnawngelknsekndsfl</p>
+<p>daldnlkanlerkgnawngelknsekndsfl</p>
+<p>daldnlkanlerkgnawngelknsekndsfl<br>daldnlkanlerkgnawngelknsekndsfl<br>daldnlkanlerkgnawngelknsekndsfl<br>daldnlkanlerkgnawngelknsekndsfl<br>daldnlkanlerkgnawngelknsekndsfl<br>daldnlkanlerkgnawngelknsekndsfl<br>daldnlkanlerkgnawngelknsekndsfl<br>daldnlkanlerkgnawngelknsekndsfl<br>daldnlkanlerkgnawngelknsekndsfldaldnlkanlerkgnawngelknsekndsfl<br>daldnlkanlerkgnawngelknsekndsfl</p>
+<p>daldnlkanlerkgnawngelknsekndsfl</p>
+<p>daldnlkanlerkgnawngelknsekndsfl<br>daldnlkanlerkgnawngelknsekndsfl<br>daldnlkanlerkgnawngelknsekndsfl<br>daldnlkanlerkgnawngelknsekndsfl<br>daldnlkanlerkgnawngelknsekndsfl<br>daldnlkanlerkgnawngelknsekndsfl<br>daldnlkanlerkgnawngelknsekndsfl<br>daldnlkanlerkgnawngelknsekndsfl<br>daldnlkanlerkgnawngelknsekndsfl</p>
 ]]></content>
     
     <summary type="html">
     
       &lt;h2 id=&quot;hi&quot;&gt;&lt;a href=&quot;#hi&quot; class=&quot;headerlink&quot; title=&quot;hi&quot;&gt;&lt;/a&gt;hi&lt;/h2&gt;&lt;p&gt;dakngr&lt;/p&gt;
-&lt;h2 id=&quot;dalknga-wg&quot;&gt;&lt;a href=&quot;#dalknga-wg&quot; class=&quot;headerlink
+&lt;h2 id=&quot;dalknga-wg&quot;&gt;&lt;a href=&quot;#dalknga-wg&quot; class=&quot;headerlink&quot; title=&quot;dalknga;wg&quot;&gt;&lt;/a&gt;dalknga;wg&lt;/h2&gt;&lt;p&gt;ndnal&lt;/p&gt;
     
     </summary>
     
