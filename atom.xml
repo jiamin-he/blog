@@ -5,7 +5,7 @@
   <link href="/blog/atom.xml" rel="self"/>
   
   <link href="http://jiaminhe.com/"/>
-  <updated>2017-03-16T02:38:56.593Z</updated>
+  <updated>2017-03-16T15:49:36.329Z</updated>
   <id>http://jiaminhe.com/</id>
   
   <author>
@@ -14,6 +14,34 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>terrible</title>
+    <link href="http://jiaminhe.com/2017/03/16/terrible/"/>
+    <id>http://jiaminhe.com/2017/03/16/terrible/</id>
+    <published>2017-03-16T15:49:36.000Z</published>
+    <updated>2017-03-16T15:49:36.329Z</updated>
+    
+    <summary type="html">
+    
+    </summary>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>hello</title>
+    <link href="http://jiaminhe.com/2017/03/16/hello/"/>
+    <id>http://jiaminhe.com/2017/03/16/hello/</id>
+    <published>2017-03-16T15:49:28.000Z</published>
+    <updated>2017-03-16T15:49:28.576Z</updated>
+    
+    <summary type="html">
+    
+    </summary>
+    
+    
+  </entry>
   
   <entry>
     <title>one-and-a-half-month-reflection</title>
