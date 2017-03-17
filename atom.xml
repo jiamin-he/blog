@@ -5,7 +5,7 @@
   <link href="/blog/atom.xml" rel="self"/>
   
   <link href="http://jiaminhe.com/"/>
-  <updated>2017-03-16T21:45:55.344Z</updated>
+  <updated>2017-03-17T00:55:51.050Z</updated>
   <id>http://jiaminhe.com/</id>
   
   <author>
@@ -20,12 +20,14 @@
     <link href="http://jiaminhe.com/2017/03/16/site-log/"/>
     <id>http://jiaminhe.com/2017/03/16/site-log/</id>
     <published>2017-03-16T19:04:38.000Z</published>
-    <updated>2017-03-16T21:45:55.344Z</updated>
+    <updated>2017-03-17T00:55:51.050Z</updated>
     
     <content type="html"><![CDATA[<blockquote class="blockquote-center">这里是摘要。</blockquote>
 
 <a id="more"></a>
 <h2 id="已实现功能"><a href="#已实现功能" class="headerlink" title="已实现功能"></a>已实现功能</h2><h3 id="home首页设置"><a href="#home首页设置" class="headerlink" title="home首页设置"></a>home首页设置</h3><ol>
+<li>左上角处除了显示“title”之外，还想显示一句座右铭<br>在<br><img src="https://goo.gl/photos/byZTVfDKzVBwRBDn8" alt="添加并显示“subtitle”"></li>
+<li></li>
 <li>自行设置文章是否在<a href="http://forwardkth.github.io/2016/05/08/next-theme-post-visibility/" target="_blank" rel="external">首页中隐藏/显示</a>——eg.首页不显示生活随笔类，仅显示技术分享类文章 </li>
 <li>首页<a href="https://github.com/iissnan/hexo-theme-next/issues/244" target="_blank" rel="external">“阅读更多”按钮</a>,首页文章的摘要可以自定义内容</li>
 <li><a href="http://ucasfl.me/2017/02/27/Hexo-next-%E4%B8%BB%E9%A2%98%E7%BE%8E%E5%8C%96%E5%92%8C-Latex-%E4%B8%8D%E6%94%AF%E6%8C%81%E7%9A%84-bug-%E5%A4%84%E7%90%86/" target="_blank" rel="external">小红心和动态背景</a>–后来没有加，觉得太花了。。。</li>
@@ -34,10 +36,10 @@
 </ol>
 <h3 id="post文章设置"><a href="#post文章设置" class="headerlink" title="post文章设置"></a>post文章设置</h3><ol>
 <li><p><i class="fa fa-camera-retro"></i> <i class="fa fa-camera-retro fa-2x"></i>  在文章里面加<a href="http://fontawesome.io/examples/" target="_blank" rel="external">可视化图标</a>，其他样式（旋转移动等）见网站示例代码</p>
-<figure class="highlight plain"><table><tr><td class="gutter"><pre><div class="line">1</div></pre></td><td class="code"><pre><div class="line">&lt;i class=&quot;fa fa-camera-retro&quot;&gt;&lt;/i&gt; fa-camera-retro</div></pre></td></tr></table></figure>
+<figure class="highlight html"><table><tr><td class="gutter"><pre><div class="line">1</div></pre></td><td class="code"><pre><div class="line"><span class="tag">&lt;<span class="name">i</span> <span class="attr">class</span>=<span class="string">"fa fa-camera-retro"</span>&gt;</span><span class="tag">&lt;/<span class="name">i</span>&gt;</span> fa-camera-retro</div></pre></td></tr></table></figure>
 </li>
-<li><p><span id="inline-blue">文字增加</span><span id="inline-purple">背景色块</span>有span#inline-purple,yellow,green,blue; 具体设置见<code>themes\next\source\css\_custom._custom.styl</code>文档内容及<a href="http://blog.junyu.pro/posts/0010-hexo-learn-from-Never-yu.html#red" target="_blank" rel="external">文字增加背景色块部分</a></p>
-<figure class="highlight plain"><table><tr><td class="gutter"><pre><div class="line">1</div><div class="line">2</div></pre></td><td class="code"><pre><div class="line">&lt;span id=&quot;inline-blue&quot;&gt;站点配置文件&lt;/span&gt;</div><div class="line">&lt;span id=&quot;inline-purple&quot;&gt;主题配置文件&lt;/span&gt;</div></pre></td></tr></table></figure>
+<li><p><span id="inline-blue">文字增加</span> <span id="inline-purple">背景色块</span>有span#inline-purple,yellow,green,blue;<br>具体设置见<code>themes\next\source\css\_custom._custom.styl</code>文档内容及<a href="http://blog.junyu.pro/posts/0010-hexo-learn-from-Never-yu.html#red" target="_blank" rel="external">文字增加背景色块部分</a></p>
+<figure class="highlight html"><table><tr><td class="gutter"><pre><div class="line">1</div><div class="line">2</div></pre></td><td class="code"><pre><div class="line"><span class="tag">&lt;<span class="name">span</span> <span class="attr">id</span>=<span class="string">"inline-blue"</span>&gt;</span>站点配置文件<span class="tag">&lt;/<span class="name">span</span>&gt;</span></div><div class="line"><span class="tag">&lt;<span class="name">span</span> <span class="attr">id</span>=<span class="string">"inline-purple"</span>&gt;</span>主题配置文件<span class="tag">&lt;/<span class="name">span</span>&gt;</span></div></pre></td></tr></table></figure>
 </li>
 <li><blockquote>
 <p></p><p id="div-border-top-red"><a href="http://blog.junyu.pro/posts/0010-hexo-learn-from-Never-yu.html#red" target="_blank" rel="external">引用框变色变上下左边框</a>同6，有</p><p></p>
