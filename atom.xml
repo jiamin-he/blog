@@ -5,7 +5,7 @@
   <link href="/blog/atom.xml" rel="self"/>
   
   <link href="http://jiaminhe.com/"/>
-  <updated>2017-03-17T01:43:33.575Z</updated>
+  <updated>2017-03-19T18:32:08.629Z</updated>
   <id>http://jiaminhe.com/</id>
   
   <author>
@@ -16,19 +16,392 @@
   <generator uri="http://hexo.io/">Hexo</generator>
   
   <entry>
-    <title>Site Log| 建站日志--Hexo.Next主题下的个性化配置</title>
-    <link href="http://jiaminhe.com/2017/03/16/site-log/"/>
-    <id>http://jiaminhe.com/2017/03/16/site-log/</id>
-    <published>2017-03-16T19:04:38.000Z</published>
-    <updated>2017-03-17T01:43:33.575Z</updated>
+    <title>If 闲下来 就 干这些事吧</title>
+    <link href="http://jiaminhe.com/2017/03/19/happy-list/"/>
+    <id>http://jiaminhe.com/2017/03/19/happy-list/</id>
+    <published>2017-03-19T04:08:45.000Z</published>
+    <updated>2017-03-19T18:32:08.629Z</updated>
     
     <content type="html"><![CDATA[<blockquote class="blockquote-center">这里是摘要。</blockquote>
 
 <a id="more"></a>
-<h2 id="已实现功能"><a href="#已实现功能" class="headerlink" title="已实现功能"></a>已实现功能</h2><p>###座右铭</p>
-<p>左上角处除了显示“title”之外，还想显示一句座右铭<br>在<span id="inline-blue">站点配置文件</span>中<code>subtitle</code>处加入自己的文字<br><figure class="highlight html"><table><tr><td class="gutter"><pre><div class="line">1</div><div class="line">2</div></pre></td><td class="code"><pre><div class="line">title: Jiamin He</div><div class="line">subtitle: Rushing out to the world</div></pre></td></tr></table></figure></p>
+<!-- visible 加上 hide则文章不在首页显示-->
+<p>Happy List</p>
+<ol>
+<li><a href="http://www.bilibili.com/sp/%E6%B5%81%E8%A8%80%E7%BB%88%E7%BB%93%E8%80%85" target="_blank" rel="external">流言终结者 | bilibili</a></li>
+<li><a href=""></a></li>
+<li><a href=""></a></li>
+<li><a href=""></a></li>
+<li><a href=""></a></li>
+<li><a href=""></a></li>
+<li><a href=""></a></li>
+<li><a href=""></a></li>
+<li><a href=""></a></li>
+<li><a href=""></a></li>
+<li><a href=""></a></li>
+<li><a href=""></a></li>
+<li><a href=""></a></li>
+<li><a href=""></a></li>
+<li><a href=""></a></li>
+<li><a href=""></a></li>
+<li><a href=""></a></li>
+<li><a href=""></a></li>
+<li><a href=""></a></li>
+<li><a href=""></a></li>
+<li><a href=""></a></li>
+<li><a href=""></a></li>
+<li><a href=""></a></li>
+<li><a href=""></a></li>
+<li><a href=""></a></li>
+<li><a href=""></a></li>
+<li><a href=""></a></li>
+<li><a href=""></a></li>
+<li><a href=""></a></li>
+<li><a href=""></a></li>
+<li><a href=""></a></li>
+<li><a href=""></a></li>
+<li><a href=""></a></li>
+<li><a href=""></a></li>
+<li><a href=""></a></li>
+<li><a href=""></a></li>
+<li><a href=""></a></li>
+<li><a href=""></a></li>
+<li><a href=""></a></li>
+<li><a href=""></a></li>
+<li><a href=""></a></li>
+<li><a href=""></a></li>
+<li><a href=""></a></li>
+<li><a href=""></a></li>
+<li><a href=""></a></li>
+<li><a href=""></a></li>
+<li><a href=""></a></li>
+<li><a href=""></a></li>
+<li><a href=""></a></li>
+<li><a href=""></a></li>
+<li><a href=""></a></li>
+<li><a href=""></a></li>
+<li><a href=""></a></li>
+<li><a href=""></a></li>
+<li><a href=""></a></li>
+<li><a href=""></a></li>
+<li><a href=""></a></li>
+<li><a href=""></a></li>
+<li><a href=""></a></li>
+<li><a href=""></a></li>
+<li><a href=""></a></li>
+<li></li>
+</ol>
+]]></content>
+    
+    <summary type="html">
+    
+      &lt;blockquote class=&quot;blockquote-center&quot;&gt;这里是摘要。&lt;/blockquote&gt;
+    
+    </summary>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>Daily-201712</title>
+    <link href="http://jiaminhe.com/2017/03/19/Daily-201701/"/>
+    <id>http://jiaminhe.com/2017/03/19/Daily-201701/</id>
+    <published>2017-03-19T04:08:45.000Z</published>
+    <updated>2017-03-19T18:30:02.054Z</updated>
+    
+    <content type="html"><![CDATA[<blockquote class="blockquote-center">这里是摘要。</blockquote>
+
+<a id="more"></a>
+<!-- visible 加上 hide则文章不在首页显示-->
+<p>Sum：<br>[2]github repo<br>[1]reading<br>[1]<br>[1]<br>[1]<br>[1]<br>[1]<br>[1]<br>[1]<br>[1]</p>
+<p>2017-03-19<br>[x]github*1 <a href="https://github.com/15331094/wxImage" target="_blank" rel="external">源码 @15331094|wxImage</a>  <a href="https://zhuanlan.zhihu.com/p/25782937" target="_blank" rel="external">知乎专栏：itchat+pillow实现微信好友头像爬取和拼接</a>  <a href="https://raw.githubusercontent.com/jiamin-he/Resume/master/Upload%20codes/wxImage.py" target="_blank" rel="external">My交作业：学习后注释</a><br>[x]reading 《增长黑客手册：如何用数据驱动爆发式增长？》 4pages<br>[]</p>
+]]></content>
+    
+    <summary type="html">
+    
+      &lt;blockquote class=&quot;blockquote-center&quot;&gt;这里是摘要。&lt;/blockquote&gt;
+    
+    </summary>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>好想要的东西！有多想要呢！</title>
+    <link href="http://jiaminhe.com/2017/03/19/desire-list/"/>
+    <id>http://jiaminhe.com/2017/03/19/desire-list/</id>
+    <published>2017-03-19T04:08:45.000Z</published>
+    <updated>2017-03-19T18:40:56.227Z</updated>
+    
+    <content type="html"><![CDATA[<blockquote class="blockquote-center">这里是摘要。</blockquote>
+
+<a id="more"></a>
+<!-- visible 加上 hide则文章不在首页显示-->
+<p>Happy List</p>
+<ol>
+<li><span id="inline-blue">积木台历</span><i class="fa fa-star-o" aria-hidden="true"></i><i class="fa fa-star-o" aria-hidden="true"></i><i class="fa fa-star-o" aria-hidden="true"></i><i class="fa fa-star-o" aria-hidden="true"></i><br>201703:觉得每过完一个月把上一个月推倒，然后重新砌下一个月的台历，会有很奇妙的感觉吧~</li>
+<li><span id="inline-blue">MacBook Pro</span><i class="fa fa-star-o" aria-hidden="true"></i><i class="fa fa-star-o" aria-hidden="true"></i><i class="fa fa-star-o" aria-hidden="true"></i><i class="fa fa-star-o" aria-hidden="true"></i><i class="fa fa-star-o" aria-hidden="true"></i><br>201703：很想要很想要！</li>
+<li><a href=""></a></li>
+<li><a href=""></a></li>
+<li><a href=""></a></li>
+<li><a href=""></a></li>
+<li><a href=""></a></li>
+<li><a href=""></a></li>
+<li><a href=""></a></li>
+<li><a href=""></a></li>
+<li><a href=""></a></li>
+<li><a href=""></a></li>
+<li><a href=""></a></li>
+<li><a href=""></a></li>
+<li><a href=""></a></li>
+<li><a href=""></a></li>
+<li><a href=""></a></li>
+<li><a href=""></a></li>
+<li><a href=""></a></li>
+<li><a href=""></a></li>
+<li><a href=""></a></li>
+<li><a href=""></a></li>
+<li><a href=""></a></li>
+<li><a href=""></a></li>
+<li><a href=""></a></li>
+<li><a href=""></a></li>
+<li><a href=""></a></li>
+<li><a href=""></a></li>
+<li><a href=""></a></li>
+<li><a href=""></a></li>
+<li><a href=""></a></li>
+<li><a href=""></a></li>
+<li><a href=""></a></li>
+<li><a href=""></a></li>
+<li><a href=""></a></li>
+<li><a href=""></a></li>
+<li><a href=""></a></li>
+<li><a href=""></a></li>
+<li><a href=""></a></li>
+<li><a href=""></a></li>
+<li><a href=""></a></li>
+<li><a href=""></a></li>
+<li><a href=""></a></li>
+<li><a href=""></a></li>
+<li><a href=""></a></li>
+<li><a href=""></a></li>
+<li><a href=""></a></li>
+<li><a href=""></a></li>
+<li><a href=""></a></li>
+<li><a href=""></a></li>
+<li><a href=""></a></li>
+<li><a href=""></a></li>
+<li><a href=""></a></li>
+<li><a href=""></a></li>
+<li><a href=""></a></li>
+<li><a href=""></a></li>
+<li><a href=""></a></li>
+<li><a href=""></a></li>
+<li><a href=""></a></li>
+<li><a href=""></a></li>
+<li><a href=""></a></li>
+<li></li>
+</ol>
+]]></content>
+    
+    <summary type="html">
+    
+      &lt;blockquote class=&quot;blockquote-center&quot;&gt;这里是摘要。&lt;/blockquote&gt;
+    
+    </summary>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>想做的事情</title>
+    <link href="http://jiaminhe.com/2017/03/19/do-it-list/"/>
+    <id>http://jiaminhe.com/2017/03/19/do-it-list/</id>
+    <published>2017-03-19T04:08:45.000Z</published>
+    <updated>2017-03-19T18:37:46.341Z</updated>
+    
+    <content type="html"><![CDATA[<blockquote class="blockquote-center">这里是摘要。</blockquote>
+
+<a id="more"></a>
+<!-- visible 加上 hide则文章不在首页显示-->
+<p>Happy List</p>
+<ol>
+<li><span id="inline-blue">明信片 给十年后的我</span><i class="fa fa-star-o" aria-hidden="true"></i><i class="fa fa-star-o" aria-hidden="true"></i><i class="fa fa-star-o" aria-hidden="true"></i><i class="fa fa-star-o" aria-hidden="true"></i></li>
+<li><a href=""></a></li>
+<li><a href=""></a></li>
+<li><a href=""></a></li>
+<li><a href=""></a></li>
+<li><a href=""></a></li>
+<li><a href=""></a></li>
+<li><a href=""></a></li>
+<li><a href=""></a></li>
+<li><a href=""></a></li>
+<li><a href=""></a></li>
+<li><a href=""></a></li>
+<li><a href=""></a></li>
+<li><a href=""></a></li>
+<li><a href=""></a></li>
+<li><a href=""></a></li>
+<li><a href=""></a></li>
+<li><a href=""></a></li>
+<li><a href=""></a></li>
+<li><a href=""></a></li>
+<li><a href=""></a></li>
+<li><a href=""></a></li>
+<li><a href=""></a></li>
+<li><a href=""></a></li>
+<li><a href=""></a></li>
+<li><a href=""></a></li>
+<li><a href=""></a></li>
+<li><a href=""></a></li>
+<li><a href=""></a></li>
+<li><a href=""></a></li>
+<li><a href=""></a></li>
+<li><a href=""></a></li>
+<li><a href=""></a></li>
+<li><a href=""></a></li>
+<li><a href=""></a></li>
+<li><a href=""></a></li>
+<li><a href=""></a></li>
+<li><a href=""></a></li>
+<li><a href=""></a></li>
+<li><a href=""></a></li>
+<li><a href=""></a></li>
+<li><a href=""></a></li>
+<li><a href=""></a></li>
+<li><a href=""></a></li>
+<li><a href=""></a></li>
+<li><a href=""></a></li>
+<li><a href=""></a></li>
+<li><a href=""></a></li>
+<li><a href=""></a></li>
+<li><a href=""></a></li>
+<li><a href=""></a></li>
+<li><a href=""></a></li>
+<li><a href=""></a></li>
+<li><a href=""></a></li>
+<li><a href=""></a></li>
+<li><a href=""></a></li>
+<li><a href=""></a></li>
+<li><a href=""></a></li>
+<li><a href=""></a></li>
+<li><a href=""></a></li>
+<li><a href=""></a></li>
+<li></li>
+</ol>
+]]></content>
+    
+    <summary type="html">
+    
+      &lt;blockquote class=&quot;blockquote-center&quot;&gt;这里是摘要。&lt;/blockquote&gt;
+    
+    </summary>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>美国留学，纠结是否转专业？</title>
+    <link href="http://jiaminhe.com/2017/03/19/change-your-major/"/>
+    <id>http://jiaminhe.com/2017/03/19/change-your-major/</id>
+    <published>2017-03-19T04:08:45.000Z</published>
+    <updated>2017-03-19T21:29:56.951Z</updated>
+    
+    <content type="html"><![CDATA[<blockquote class="blockquote-center">这里是摘要。</blockquote>
+
+<a id="more"></a>
+<!-- visible 加上 hide则文章不在首页显示-->
+<p>Happy List</p>
+<ol>
+<li><a href="http://www.bilibili.com/sp/%E6%B5%81%E8%A8%80%E7%BB%88%E7%BB%93%E8%80%85" target="_blank" rel="external">流言终结者 | bilibili</a></li>
+<li><a href=""></a></li>
+<li><a href=""></a></li>
+<li><a href=""></a></li>
+<li><a href=""></a></li>
+<li><a href=""></a></li>
+<li><a href=""></a></li>
+<li><a href=""></a></li>
+<li><a href=""></a></li>
+<li><a href=""></a></li>
+<li><a href=""></a></li>
+<li><a href=""></a></li>
+<li><a href=""></a></li>
+<li><a href=""></a></li>
+<li><a href=""></a></li>
+<li><a href=""></a></li>
+<li><a href=""></a></li>
+<li><a href=""></a></li>
+<li><a href=""></a></li>
+<li><a href=""></a></li>
+<li><a href=""></a></li>
+<li><a href=""></a></li>
+<li><a href=""></a></li>
+<li><a href=""></a></li>
+<li><a href=""></a></li>
+<li><a href=""></a></li>
+<li><a href=""></a></li>
+<li><a href=""></a></li>
+<li><a href=""></a></li>
+<li><a href=""></a></li>
+<li><a href=""></a></li>
+<li><a href=""></a></li>
+<li><a href=""></a></li>
+<li><a href=""></a></li>
+<li><a href=""></a></li>
+<li><a href=""></a></li>
+<li><a href=""></a></li>
+<li><a href=""></a></li>
+<li><a href=""></a></li>
+<li><a href=""></a></li>
+<li><a href=""></a></li>
+<li><a href=""></a></li>
+<li><a href=""></a></li>
+<li><a href=""></a></li>
+<li><a href=""></a></li>
+<li><a href=""></a></li>
+<li><a href=""></a></li>
+<li><a href=""></a></li>
+<li><a href=""></a></li>
+<li><a href=""></a></li>
+<li><a href=""></a></li>
+<li><a href=""></a></li>
+<li><a href=""></a></li>
+<li><a href=""></a></li>
+<li><a href=""></a></li>
+<li><a href=""></a></li>
+<li><a href=""></a></li>
+<li><a href=""></a></li>
+<li><a href=""></a></li>
+<li><a href=""></a></li>
+<li><a href=""></a></li>
+<li></li>
+</ol>
+]]></content>
+    
+    <summary type="html">
+    
+      &lt;blockquote class=&quot;blockquote-center&quot;&gt;这里是摘要。&lt;/blockquote&gt;
+    
+    </summary>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>Site Log| 建站日志--Hexo.Next主题下的个性化配置</title>
+    <link href="http://jiaminhe.com/2017/03/16/site-log/"/>
+    <id>http://jiaminhe.com/2017/03/16/site-log/</id>
+    <published>2017-03-16T19:04:38.000Z</published>
+    <updated>2017-03-17T15:32:15.401Z</updated>
+    
+    <content type="html"><![CDATA[<blockquote class="blockquote-center">这里是摘要。</blockquote>
+
+<a id="more"></a>
+<h2 id="已实现功能"><a href="#已实现功能" class="headerlink" title="已实现功能"></a>已实现功能</h2><h3 id="座右铭"><a href="#座右铭" class="headerlink" title="座右铭"></a>座右铭</h3><p>左上角处除了显示“title”之外，还想显示一句座右铭<br>在<span id="inline-blue">站点配置文件</span>中<code>subtitle</code>处加入自己的文字<br><figure class="highlight html"><table><tr><td class="gutter"><pre><div class="line">1</div><div class="line">2</div></pre></td><td class="code"><pre><div class="line">title: Jiamin He</div><div class="line">subtitle: Rushing out to the world</div></pre></td></tr></table></figure></p>
 <p>并在<code>..\themes\next\source\css\_custom</code>文件夹中打开<code>custom.styl</code>文件。（如果你是第一次打开这个文档的话，里面是空的。）——该文档提供给用户添加自定义css属性——往文档里写入<br><figure class="highlight html"><table><tr><td class="gutter"><pre><div class="line">1</div></pre></td><td class="code"><pre><div class="line">.site-subtitle &#123; display: inline-block; &#125;</div></pre></td></tr></table></figure></p>
 <p>效果如下<br><img src="https://goo.gl/photos/byZTVfDKzVBwRBDn8" alt="添加并显示“subtitle”"></p>
+<h3 id="关闭特定页面的多说热评文章显示"><a href="#关闭特定页面的多说热评文章显示" class="headerlink" title="关闭特定页面的多说热评文章显示"></a>关闭特定页面的多说热评文章显示</h3><p>修改<code>..\themes\next\layout\_partials\duoshuo-hot-articles.swig</code>文件<br><figure class="highlight plain"><table><tr><td class="gutter"><pre><div class="line">1</div><div class="line">2</div></pre></td><td class="code"><pre><div class="line">修改前： &#123;% if (theme.duoshuo_hotartical and page.title) %&#125;</div><div class="line">修改后： &#123;% if (theme.duoshuo_hotartical and page.title and page.duoshuo-hot-articles) %&#125;</div></pre></td></tr></table></figure></p>
+<p>并在<code>..\scaffolds\page.md</code>文件<code>header</code>中加入<code>duoshuo-hot-articles：</code>属性</p>
 <h3 id="home首页设置"><a href="#home首页设置" class="headerlink" title="home首页设置"></a>home首页设置</h3><ol>
 <li>自行设置文章是否在<a href="http://forwardkth.github.io/2016/05/08/next-theme-post-visibility/" target="_blank" rel="external">首页中隐藏/显示</a>——eg.首页不显示生活随笔类，仅显示技术分享类文章 </li>
 <li>首页<a href="https://github.com/iissnan/hexo-theme-next/issues/244" target="_blank" rel="external">“阅读更多”按钮</a>,首页文章的摘要可以自定义内容</li>
@@ -71,73 +444,11 @@
   </entry>
   
   <entry>
-    <title>thank-you</title>
-    <link href="http://jiaminhe.com/2017/03/16/thank-you/"/>
-    <id>http://jiaminhe.com/2017/03/16/thank-you/</id>
-    <published>2017-03-16T18:34:00.000Z</published>
-    <updated>2017-03-16T18:49:21.865Z</updated>
-    
-    <content type="html"><![CDATA[<blockquote class="blockquote-center">感谢全栈工程师<a href="https://neveryu.github.io/" target="_blank" rel="external">Never_yu</a>。</blockquote>
-
-<a id="more"></a>
-<p>你好啊</p>
-<h2 id="谢谢你"><a href="#谢谢你" class="headerlink" title="谢谢你"></a>谢谢你</h2><p>啦啦啦</p>
-]]></content>
-    
-    <summary type="html">
-    
-      &lt;blockquote class=&quot;blockquote-center&quot;&gt;感谢全栈工程师&lt;a href=&quot;https://neveryu.github.io/&quot;&gt;Never_yu&lt;/a&gt;。&lt;/blockquote&gt;
-    
-    </summary>
-    
-    
-  </entry>
-  
-  <entry>
-    <title>terrible</title>
-    <link href="http://jiaminhe.com/2017/03/16/terrible/"/>
-    <id>http://jiaminhe.com/2017/03/16/terrible/</id>
-    <published>2017-03-16T15:49:36.000Z</published>
-    <updated>2017-03-16T15:49:36.329Z</updated>
-    
-    <summary type="html">
-    
-    </summary>
-    
-    
-  </entry>
-  
-  <entry>
-    <title>hello</title>
-    <link href="http://jiaminhe.com/2017/03/16/hello/"/>
-    <id>http://jiaminhe.com/2017/03/16/hello/</id>
-    <published>2017-03-16T15:49:28.000Z</published>
-    <updated>2017-03-16T18:49:30.962Z</updated>
-    
-    <content type="html"><![CDATA[<p>daldnlkanlerkgnawngelknsekndsfl<br>daldnlkanlerkgnawngelknsekndsfl</p>
-<p>daldnlkanlerkgnawngelknsekndsfl</p>
-<p>daldnlkanlerkgnawngelknsekndsfl<br>daldnlkanlerkgnawngelknsekndsfl<br>daldnlkanlerkgnawngelknsekndsfl<br>daldnlkanlerkgnawngelknsekndsfl<br>daldnlkanlerkgnawngelknsekndsfl<br>daldnlkanlerkgnawngelknsekndsfl<br>daldnlkanlerkgnawngelknsekndsfl<br>daldnlkanlerkgnawngelknsekndsfl<br>daldnlkanlerkgnawngelknsekndsfl</p>
-<a id="more"></a>
-<p>我是好人</p>
-]]></content>
-    
-    <summary type="html">
-    
-      &lt;p&gt;daldnlkanlerkgnawngelknsekndsfl&lt;br&gt;daldnlkanlerkgnawngelknsekndsfl&lt;/p&gt;
-&lt;p&gt;daldnlkanlerkgnawngelknsekndsfl&lt;/p&gt;
-&lt;p&gt;daldnlkanlerkgnawngelknsekndsfl&lt;br&gt;daldnlkanlerkgnawngelknsekndsfl&lt;br&gt;daldnlkanlerkgnawngelknsekndsfl&lt;br&gt;daldnlkanlerkgnawngelknsekndsfl&lt;br&gt;daldnlkanlerkgnawngelknsekndsfl&lt;br&gt;daldnlkanlerkgnawngelknsekndsfl&lt;br&gt;daldnlkanlerkgnawngelknsekndsfl&lt;br&gt;daldnlkanlerkgnawngelknsekndsfl&lt;br&gt;daldnlkanlerkgnawngelknsekndsfl&lt;/p&gt;
-    
-    </summary>
-    
-    
-  </entry>
-  
-  <entry>
     <title>one-and-a-half-month-reflection</title>
     <link href="http://jiaminhe.com/2017/03/15/one-and-a-half-month-reflection/"/>
     <id>http://jiaminhe.com/2017/03/15/one-and-a-half-month-reflection/</id>
     <published>2017-03-16T02:38:56.000Z</published>
-    <updated>2017-03-16T18:49:13.260Z</updated>
+    <updated>2017-03-19T18:15:23.622Z</updated>
     
     <content type="html"><![CDATA[<h2 id="hi"><a href="#hi" class="headerlink" title="hi"></a>hi</h2><p>dakngr</p>
 <h2 id="dalknga-wg"><a href="#dalknga-wg" class="headerlink" title="dalknga;wg"></a>dalknga;wg</h2><p>ndnal</p>
@@ -178,11 +489,7 @@
     
     </summary>
     
-      <category term="没吃饭" scheme="http://jiaminhe.com/categories/%E6%B2%A1%E5%90%83%E9%A5%AD/"/>
-    
-      <category term="额" scheme="http://jiaminhe.com/categories/%E6%B2%A1%E5%90%83%E9%A5%AD/%E9%A2%9D/"/>
-    
-      <category term="傻瓜" scheme="http://jiaminhe.com/categories/%E6%B2%A1%E5%90%83%E9%A5%AD/%E9%A2%9D/%E5%82%BB%E7%93%9C/"/>
+      <category term="Reflection | 反思" scheme="http://jiaminhe.com/categories/Reflection-%E5%8F%8D%E6%80%9D/"/>
     
     
       <category term="haluo" scheme="http://jiaminhe.com/tags/haluo/"/>
