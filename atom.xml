@@ -5,7 +5,7 @@
   <link href="/blog/atom.xml" rel="self"/>
   
   <link href="http://jiaminhe.com/"/>
-  <updated>2017-03-19T18:32:08.629Z</updated>
+  <updated>2017-03-19T21:29:56.951Z</updated>
   <id>http://jiaminhe.com/</id>
   
   <author>
@@ -16,11 +16,11 @@
   <generator uri="http://hexo.io/">Hexo</generator>
   
   <entry>
-    <title>If 闲下来 就 干这些事吧</title>
-    <link href="http://jiaminhe.com/2017/03/19/happy-list/"/>
-    <id>http://jiaminhe.com/2017/03/19/happy-list/</id>
+    <title>美国留学，纠结是否转专业？</title>
+    <link href="http://jiaminhe.com/2017/03/19/change-your-major/"/>
+    <id>http://jiaminhe.com/2017/03/19/change-your-major/</id>
     <published>2017-03-19T04:08:45.000Z</published>
-    <updated>2017-03-19T18:32:08.629Z</updated>
+    <updated>2017-03-19T21:29:56.951Z</updated>
     
     <content type="html"><![CDATA[<blockquote class="blockquote-center">这里是摘要。</blockquote>
 
@@ -91,30 +91,6 @@
 <li><a href=""></a></li>
 <li></li>
 </ol>
-]]></content>
-    
-    <summary type="html">
-    
-      &lt;blockquote class=&quot;blockquote-center&quot;&gt;这里是摘要。&lt;/blockquote&gt;
-    
-    </summary>
-    
-    
-  </entry>
-  
-  <entry>
-    <title>Daily-201712</title>
-    <link href="http://jiaminhe.com/2017/03/19/Daily-201701/"/>
-    <id>http://jiaminhe.com/2017/03/19/Daily-201701/</id>
-    <published>2017-03-19T04:08:45.000Z</published>
-    <updated>2017-03-19T18:30:02.054Z</updated>
-    
-    <content type="html"><![CDATA[<blockquote class="blockquote-center">这里是摘要。</blockquote>
-
-<a id="more"></a>
-<!-- visible 加上 hide则文章不在首页显示-->
-<p>Sum：<br>[2]github repo<br>[1]reading<br>[1]<br>[1]<br>[1]<br>[1]<br>[1]<br>[1]<br>[1]<br>[1]</p>
-<p>2017-03-19<br>[x]github*1 <a href="https://github.com/15331094/wxImage" target="_blank" rel="external">源码 @15331094|wxImage</a>  <a href="https://zhuanlan.zhihu.com/p/25782937" target="_blank" rel="external">知乎专栏：itchat+pillow实现微信好友头像爬取和拼接</a>  <a href="https://raw.githubusercontent.com/jiamin-he/Resume/master/Upload%20codes/wxImage.py" target="_blank" rel="external">My交作业：学习后注释</a><br>[x]reading 《增长黑客手册：如何用数据驱动爆发式增长？》 4pages<br>[]</p>
 ]]></content>
     
     <summary type="html">
@@ -214,6 +190,30 @@
   </entry>
   
   <entry>
+    <title>Daily-201712</title>
+    <link href="http://jiaminhe.com/2017/03/19/Daily-201701/"/>
+    <id>http://jiaminhe.com/2017/03/19/Daily-201701/</id>
+    <published>2017-03-19T04:08:45.000Z</published>
+    <updated>2017-03-19T18:30:02.054Z</updated>
+    
+    <content type="html"><![CDATA[<blockquote class="blockquote-center">这里是摘要。</blockquote>
+
+<a id="more"></a>
+<!-- visible 加上 hide则文章不在首页显示-->
+<p>Sum：<br>[2]github repo<br>[1]reading<br>[1]<br>[1]<br>[1]<br>[1]<br>[1]<br>[1]<br>[1]<br>[1]</p>
+<p>2017-03-19<br>[x]github*1 <a href="https://github.com/15331094/wxImage" target="_blank" rel="external">源码 @15331094|wxImage</a>  <a href="https://zhuanlan.zhihu.com/p/25782937" target="_blank" rel="external">知乎专栏：itchat+pillow实现微信好友头像爬取和拼接</a>  <a href="https://raw.githubusercontent.com/jiamin-he/Resume/master/Upload%20codes/wxImage.py" target="_blank" rel="external">My交作业：学习后注释</a><br>[x]reading 《增长黑客手册：如何用数据驱动爆发式增长？》 4pages<br>[]</p>
+]]></content>
+    
+    <summary type="html">
+    
+      &lt;blockquote class=&quot;blockquote-center&quot;&gt;这里是摘要。&lt;/blockquote&gt;
+    
+    </summary>
+    
+    
+  </entry>
+  
+  <entry>
     <title>想做的事情</title>
     <link href="http://jiaminhe.com/2017/03/19/do-it-list/"/>
     <id>http://jiaminhe.com/2017/03/19/do-it-list/</id>
@@ -301,11 +301,11 @@
   </entry>
   
   <entry>
-    <title>美国留学，纠结是否转专业？</title>
-    <link href="http://jiaminhe.com/2017/03/19/change-your-major/"/>
-    <id>http://jiaminhe.com/2017/03/19/change-your-major/</id>
+    <title>If 闲下来 就 干这些事吧</title>
+    <link href="http://jiaminhe.com/2017/03/19/happy-list/"/>
+    <id>http://jiaminhe.com/2017/03/19/happy-list/</id>
     <published>2017-03-19T04:08:45.000Z</published>
-    <updated>2017-03-19T21:29:56.951Z</updated>
+    <updated>2017-03-19T18:32:08.629Z</updated>
     
     <content type="html"><![CDATA[<blockquote class="blockquote-center">这里是摘要。</blockquote>
 
