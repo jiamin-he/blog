@@ -95,16 +95,14 @@
 
 <meta name="description" content="这里是摘要。">
 <meta property="og:type" content="article">
-<meta property="og:title" content="Site Log| 建站日志--Hexo.Next主题下的个性化配置">
-<meta property="og:url" content="http://jiaminhe.com/2017/03/16/site-log/index.html">
+<meta property="og:title" content="Daily-201712">
+<meta property="og:url" content="http://jiaminhe.com/Daily-201701/index.html">
 <meta property="og:site_name" content="Jiamin He">
 <meta property="og:description" content="这里是摘要。">
-<meta property="og:image" content="https://goo.gl/photos/byZTVfDKzVBwRBDn8">
-<meta property="og:updated_time" content="2017-03-17T15:32:15.401Z">
+<meta property="og:updated_time" content="2017-03-20T02:20:18.732Z">
 <meta name="twitter:card" content="summary">
-<meta name="twitter:title" content="Site Log| 建站日志--Hexo.Next主题下的个性化配置">
+<meta name="twitter:title" content="Daily-201712">
 <meta name="twitter:description" content="这里是摘要。">
-<meta name="twitter:image" content="https://goo.gl/photos/byZTVfDKzVBwRBDn8">
 
 
 
@@ -132,13 +130,13 @@
 
 
 
-  <link rel="canonical" href="http://jiaminhe.com/2017/03/16/site-log/"/>
+  <link rel="canonical" href="http://jiaminhe.com/Daily-201701/"/>
 
 
 
 
 
-  <title> Site Log| 建站日志--Hexo.Next主题下的个性化配置 | Jiamin He </title>
+  <title> Daily-201712 | Jiamin He </title>
 </head>
 
 <body itemscope itemtype="http://schema.org/WebPage" lang="en">
@@ -334,7 +332,7 @@
   
 
   <article class="post post-type-normal " itemscope itemtype="http://schema.org/Article">
-    <link itemprop="mainEntityOfPage" href="http://jiaminhe.com/blog/2017/03/16/site-log/">
+    <link itemprop="mainEntityOfPage" href="http://jiaminhe.com/blog/Daily-201701/">
 
     <span hidden itemprop="author" itemscope itemtype="http://schema.org/Person">
       <meta itemprop="name" content="Jiamin He">
@@ -355,7 +353,7 @@
             
             
               
-                Site Log| 建站日志--Hexo.Next主题下的个性化配置
+                Daily-201712
               
             
           </h1>
@@ -370,8 +368,8 @@
               
                 <span class="post-meta-item-text">Posted on</span>
               
-              <time title="Post created" itemprop="dateCreated datePublished" datetime="2017-03-16T15:04:38-04:00">
-                2017-03-16
+              <time title="Post created" itemprop="dateCreated datePublished" datetime="2017-03-19T00:08:45-04:00">
+                2017-03-19
               </time>
             
 
@@ -386,7 +384,7 @@
 
           
           
-             <span id="/blog/2017/03/16/site-log/" class="leancloud_visitors" data-flag-title="Site Log| 建站日志--Hexo.Next主题下的个性化配置">
+             <span id="/blog/Daily-201701/" class="leancloud_visitors" data-flag-title="Daily-201712">
                <span class="post-meta-divider">|</span>
                <span class="post-meta-item-icon">
                  <i class="fa fa-eye"></i>
@@ -414,7 +412,7 @@
                   <span class="post-meta-item-text">Words count</span>
                 
                 <span title="Words count">
-                  542
+                  79
                 </span>
               
 
@@ -430,7 +428,7 @@
                   <span class="post-meta-item-text">Reading time</span>
                 
                 <span title="Reading time">
-                  2
+                  1
                 </span>
               
             </div>
@@ -452,41 +450,9 @@
         <blockquote class="blockquote-center">这里是摘要。</blockquote>
 
 <a id="more"></a>
-<h2 id="已实现功能"><a href="#已实现功能" class="headerlink" title="已实现功能"></a>已实现功能</h2><h3 id="座右铭"><a href="#座右铭" class="headerlink" title="座右铭"></a>座右铭</h3><p>左上角处除了显示“title”之外，还想显示一句座右铭<br>在<span id="inline-blue">站点配置文件</span>中<code>subtitle</code>处加入自己的文字<br><figure class="highlight html"><table><tr><td class="gutter"><pre><div class="line">1</div><div class="line">2</div></pre></td><td class="code"><pre><div class="line">title: Jiamin He</div><div class="line">subtitle: Rushing out to the world</div></pre></td></tr></table></figure></p>
-<p>并在<code>..\themes\next\source\css\_custom</code>文件夹中打开<code>custom.styl</code>文件。（如果你是第一次打开这个文档的话，里面是空的。）——该文档提供给用户添加自定义css属性——往文档里写入<br><figure class="highlight html"><table><tr><td class="gutter"><pre><div class="line">1</div></pre></td><td class="code"><pre><div class="line">.site-subtitle &#123; display: inline-block; &#125;</div></pre></td></tr></table></figure></p>
-<p>效果如下<br><img src="https://goo.gl/photos/byZTVfDKzVBwRBDn8" alt="添加并显示“subtitle”"></p>
-<h3 id="关闭特定页面的多说热评文章显示"><a href="#关闭特定页面的多说热评文章显示" class="headerlink" title="关闭特定页面的多说热评文章显示"></a>关闭特定页面的多说热评文章显示</h3><p>修改<code>..\themes\next\layout\_partials\duoshuo-hot-articles.swig</code>文件<br><figure class="highlight plain"><table><tr><td class="gutter"><pre><div class="line">1</div><div class="line">2</div></pre></td><td class="code"><pre><div class="line">修改前： &#123;% if (theme.duoshuo_hotartical and page.title) %&#125;</div><div class="line">修改后： &#123;% if (theme.duoshuo_hotartical and page.title and page.duoshuo-hot-articles) %&#125;</div></pre></td></tr></table></figure></p>
-<p>并在<code>..\scaffolds\page.md</code>文件<code>header</code>中加入<code>duoshuo-hot-articles：</code>属性</p>
-<h3 id="home首页设置"><a href="#home首页设置" class="headerlink" title="home首页设置"></a>home首页设置</h3><ol>
-<li>自行设置文章是否在<a href="http://forwardkth.github.io/2016/05/08/next-theme-post-visibility/" target="_blank" rel="external">首页中隐藏/显示</a>——eg.首页不显示生活随笔类，仅显示技术分享类文章 </li>
-<li>首页<a href="https://github.com/iissnan/hexo-theme-next/issues/244" target="_blank" rel="external">“阅读更多”按钮</a>,首页文章的摘要可以自定义内容</li>
-<li><a href="http://ucasfl.me/2017/02/27/Hexo-next-%E4%B8%BB%E9%A2%98%E7%BE%8E%E5%8C%96%E5%92%8C-Latex-%E4%B8%8D%E6%94%AF%E6%8C%81%E7%9A%84-bug-%E5%A4%84%E7%90%86/" target="_blank" rel="external">小红心和动态背景</a>–后来没有加，觉得太花了。。。</li>
-<li><a href="http://ehlxr.me/2016/08/30/%E4%BD%BF%E7%94%A8Hexo%E5%9F%BA%E4%BA%8EGitHub-Pages%E6%90%AD%E5%BB%BA%E4%B8%AA%E4%BA%BA%E5%8D%9A%E5%AE%A2%EF%BC%88%E4%B8%89%EF%BC%89/#%E4%B8%83%E3%80%81%E8%83%8C%E6%99%AF%E6%95%88%E6%9E%9C" target="_blank" rel="external">宽度调节</a>–在链接的1.2</li>
-<li><a href="http://ehlxr.me/2016/08/30/%E4%BD%BF%E7%94%A8Hexo%E5%9F%BA%E4%BA%8EGitHub-Pages%E6%90%AD%E5%BB%BA%E4%B8%AA%E4%BA%BA%E5%8D%9A%E5%AE%A2%EF%BC%88%E4%B8%89%EF%BC%89/#%E4%B8%83%E3%80%81%E8%83%8C%E6%99%AF%E6%95%88%E6%9E%9C" target="_blank" rel="external">文章置顶</a>–见10.2部分–添加top属性值即可，数值越大文章越靠前</li>
-</ol>
-<h3 id="post文章设置"><a href="#post文章设置" class="headerlink" title="post文章设置"></a>post文章设置</h3><ol>
-<li><p><i class="fa fa-camera-retro"></i> <i class="fa fa-camera-retro fa-2x"></i>  在文章里面加<a href="http://fontawesome.io/examples/" target="_blank" rel="external">可视化图标</a>，其他样式（旋转移动等）见网站示例代码</p>
-<figure class="highlight html"><table><tr><td class="gutter"><pre><div class="line">1</div></pre></td><td class="code"><pre><div class="line"><span class="tag">&lt;<span class="name">i</span> <span class="attr">class</span>=<span class="string">"fa fa-camera-retro"</span>&gt;</span><span class="tag">&lt;/<span class="name">i</span>&gt;</span> fa-camera-retro</div></pre></td></tr></table></figure>
-</li>
-<li><p><span id="inline-blue">文字增加</span> <span id="inline-purple">背景色块</span>有<code>span#inline-purple,yellow,green,blue;</code><br>具体设置见<code>themes\next\source\css\_custom._custom.styl</code>文档内容及<a href="http://blog.junyu.pro/posts/0010-hexo-learn-from-Never-yu.html#red" target="_blank" rel="external">文字增加背景色块部分</a></p>
-<figure class="highlight html"><table><tr><td class="gutter"><pre><div class="line">1</div><div class="line">2</div></pre></td><td class="code"><pre><div class="line"><span class="tag">&lt;<span class="name">span</span> <span class="attr">id</span>=<span class="string">"inline-blue"</span>&gt;</span>站点配置文件<span class="tag">&lt;/<span class="name">span</span>&gt;</span></div><div class="line"><span class="tag">&lt;<span class="name">span</span> <span class="attr">id</span>=<span class="string">"inline-purple"</span>&gt;</span>主题配置文件<span class="tag">&lt;/<span class="name">span</span>&gt;</span></div></pre></td></tr></table></figure>
-</li>
-<li><blockquote>
-<p></p><p id="div-border-top-red"><a href="http://blog.junyu.pro/posts/0010-hexo-learn-from-Never-yu.html#red" target="_blank" rel="external">引用框变色变上下左边框</a>同6，有</p><p></p>
-<figure class="highlight plain"><table><tr><td class="gutter"><pre><div class="line">1</div></pre></td><td class="code"><pre><div class="line">p#div-border-left-red,yellow,green,blue,purple, left,right,top...</div></pre></td></tr></table></figure>
-</blockquote>
-</li>
-<li><p>文章中插入<a href="http://weqeo.com/2016/10/11/Hexo%E4%B8%AD%E6%92%AD%E6%94%BE%E7%BD%91%E6%98%93%E4%BA%91%E9%9F%B3%E4%B9%90%E7%9A%84%E5%AE%9E%E8%B7%B5/" target="_blank" rel="external">歌曲</a>，如何找到网易云音乐里歌曲的<a href="http://jingyan.baidu.com/article/5225f26b55d12de6fb09085f.html" target="_blank" rel="external">外链播放器</a>，如果显示版权保护，无法生成–<a href="http://www.100day.cc/passage/139.html" target="_blank" rel="external">解决方法</a></p>
-<iframe frameborder="no" border="0" marginwidth="0" marginheight="0" width="330" height="86" src="//music.163.com/outchain/player?type=2&id=417250673&auto=1&height=66"></iframe></li>
-<li></li>
-<li></li>
-</ol>
-<h3 id="sidebar侧边栏设置"><a href="#sidebar侧边栏设置" class="headerlink" title="sidebar侧边栏设置"></a>sidebar侧边栏设置</h3><ol>
-<li><a href="http://ehlxr.me/2016/08/30/%E4%BD%BF%E7%94%A8Hexo%E5%9F%BA%E4%BA%8EGitHub-Pages%E6%90%AD%E5%BB%BA%E4%B8%AA%E4%BA%BA%E5%8D%9A%E5%AE%A2%EF%BC%88%E4%B8%89%EF%BC%89/#%E4%B8%83%E3%80%81%E8%83%8C%E6%99%AF%E6%95%88%E6%9E%9C" target="_blank" rel="external">头像旋转</a>第11部分–后来偷懒了，不想改了嘻嘻</li>
-</ol>
-<h2 id="待实现功能"><a href="#待实现功能" class="headerlink" title="待实现功能"></a>待实现功能</h2><ol>
-<li>菜单栏左上角<code>site-meta</code>显示自己的logo，</li>
-</ol>
+<!-- visible 加上 hide则文章不在首页显示-->
+<p>Sum：<br>[2]github repo<br>[1]reading<br>[2]zhihu<br>[1]<br>[1]<br>[1]<br>[1]<br>[1]<br>[1]<br>[1]</p>
+<p>2017-03-19<br>[x]github<em>1 <a href="https://github.com/15331094/wxImage" target="_blank" rel="external">源码 @15331094|wxImage</a>  <a href="https://zhuanlan.zhihu.com/p/25782937" target="_blank" rel="external">知乎专栏：itchat+pillow实现微信好友头像爬取和拼接</a>  <a href="https://raw.githubusercontent.com/jiamin-he/Resume/master/Upload%20codes/wxImage.py" target="_blank" rel="external">My交作业：学习后注释</a><br>[x]reading 《增长黑客手册：如何用数据驱动爆发式增长？》 4pages<br>[]zhihu</em>1</p>
 
       
     </div>
@@ -518,8 +484,8 @@
         <div class="post-nav">
           <div class="post-nav-next post-nav-item">
             
-              <a href="/blog/2017/03/15/one-and-a-half-month-reflection/" rel="next" title="one-and-a-half-month-reflection">
-                <i class="fa fa-chevron-left"></i> one-and-a-half-month-reflection
+              <a href="/blog/do-it-list/" rel="next" title="想做的事情">
+                <i class="fa fa-chevron-left"></i> 想做的事情
               </a>
             
           </div>
@@ -528,8 +494,8 @@
 
           <div class="post-nav-prev post-nav-item">
             
-              <a href="/blog/2017/03/19/happy-list/" rel="prev" title="If 闲下来 就 干这些事吧">
-                If 闲下来 就 干这些事吧 <i class="fa fa-chevron-right"></i>
+              <a href="/blog/desire-list/" rel="prev" title="好想要的东西！有多想要呢！">
+                好想要的东西！有多想要呢！ <i class="fa fa-chevron-right"></i>
               </a>
             
           </div>
@@ -556,8 +522,8 @@
           
   <div class="comments" id="comments">
     
-      <div class="ds-thread" data-thread-key="2017/03/16/site-log/"
-           data-title="Site Log| 建站日志--Hexo.Next主题下的个性化配置" data-url="http://jiaminhe.com/blog/2017/03/16/site-log/">
+      <div class="ds-thread" data-thread-key="Daily-201701/"
+           data-title="Daily-201712" data-url="http://jiaminhe.com/blog/Daily-201701/">
       </div>
     
   </div>
@@ -581,17 +547,8 @@
       
 
       
-        <ul class="sidebar-nav motion-element">
-          <li class="sidebar-nav-toc sidebar-nav-active" data-target="post-toc-wrap" >
-            Table of Contents
-          </li>
-          <li class="sidebar-nav-overview" data-target="site-overview">
-            Overview
-          </li>
-        </ul>
-      
 
-      <section class="site-overview sidebar-panel">
+      <section class="site-overview sidebar-panel sidebar-panel-active">
         <div class="site-author motion-element" itemprop="author" itemscope itemtype="http://schema.org/Person">
           <img class="site-author-image" itemprop="image"
                src="/blog/uploads/avatar.png"
@@ -628,7 +585,7 @@
             
             <div class="site-state-item site-state-tags">
               <a href="/blog/tags/index.html">
-                <span class="site-state-item-count">2</span>
+                <span class="site-state-item-count">5</span>
                 <span class="site-state-item-name">tags</span>
               </a>
             </div>
@@ -718,22 +675,6 @@
 
       </section>
 
-      
-      <!--noindex-->
-        <section class="post-toc-wrap motion-element sidebar-panel sidebar-panel-active">
-          <div class="post-toc">
-
-            
-              
-            
-
-            
-              <div class="post-toc-content"><ol class="nav"><li class="nav-item nav-level-2"><a class="nav-link" href="#已实现功能"><span class="nav-number">1.</span> <span class="nav-text">已实现功能</span></a><ol class="nav-child"><li class="nav-item nav-level-3"><a class="nav-link" href="#座右铭"><span class="nav-number">1.1.</span> <span class="nav-text">座右铭</span></a></li><li class="nav-item nav-level-3"><a class="nav-link" href="#关闭特定页面的多说热评文章显示"><span class="nav-number">1.2.</span> <span class="nav-text">关闭特定页面的多说热评文章显示</span></a></li><li class="nav-item nav-level-3"><a class="nav-link" href="#home首页设置"><span class="nav-number">1.3.</span> <span class="nav-text">home首页设置</span></a></li><li class="nav-item nav-level-3"><a class="nav-link" href="#post文章设置"><span class="nav-number">1.4.</span> <span class="nav-text">post文章设置</span></a></li><li class="nav-item nav-level-3"><a class="nav-link" href="#sidebar侧边栏设置"><span class="nav-number">1.5.</span> <span class="nav-text">sidebar侧边栏设置</span></a></li></ol></li><li class="nav-item nav-level-2"><a class="nav-link" href="#待实现功能"><span class="nav-number">2.</span> <span class="nav-text">待实现功能</span></a></li></ol></div>
-            
-
-          </div>
-        </section>
-      <!--/noindex-->
       
 
       
